@@ -1,0 +1,26 @@
+.env
+node_modules
+package-lock.json
+
+# Logs  
+*.log  
+logs/  
+
+# Cache and Build files  
+.cache/  
+dist/  
+build/  
+
+# IDE and Editor files  
+.vscode/  
+.idea/  
+*.swp  
+*.swo  
+.DS_Store  
+
+# Vite build files  
+.vite/  
+
+# Tailwind config  
+tailwind.config.js  
+postcss.config.js  

@@ -1,0 +1,24 @@
+.env
+node_modules
+package-lock.json
+
+# Logs  
+*.log  
+logs/  
+
+# Cache and Build files  
+.cache/  
+dist/  
+build/  
+
+# IDE and Editor files  
+.vscode/  
+.idea/  
+*.swp  
+*.swo  
+.DS_Store  
+
+# Database files (if applicable)  
+db/*.sqlite  
+db/*.db  
+db/*.log  
